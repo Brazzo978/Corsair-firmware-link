@@ -33,3 +33,4 @@ https://www3.corsair.com/software/CUE_V4/ST100RGB.zip
 https://www3.corsair.com/software/CUE_V4/K65LUXRGB.zip
 https://www3.corsair.com/software/CUE_V4/VIRTUOSO.zip
 https://www3.corsair.com/software/CUE_V4/VIRTUOSOSE.zip
+https://www3.corsair.com/software/CUE_V4/HARPOONRGBPRO.zip
